@@ -3,14 +3,16 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 //Paste Iklan Disini
 
-		atOptions = {
-		'key' : '0dd90fc348cb5df9bf168dd5dd553063',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
+		&lt;script type=&quot;text/javascript&quot;&gt;
+	atOptions = {
+		&#039;key&#039; : &#039;a647892478cfe688a80178b308049a3e&#039;,
+		&#039;format&#039; : &#039;iframe&#039;,
+		&#039;height&#039; : 90,
+		&#039;width&#039; : 728,
+		&#039;params&#039; : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.profitabledisplaynetwork.com/0dd90fc348cb5df9bf168dd5dd553063/invoke.js"></scr' + 'ipt>');
+&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;//recessionhillside.com/a647892478cfe688a80178b308049a3e/invoke.js&quot;&gt;&lt;/script&gt;
 
 
 // Batas Iklan
